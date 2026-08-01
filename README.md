@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-😋16yo
+16yo
 
 📍 Argentina
+
+back-end
